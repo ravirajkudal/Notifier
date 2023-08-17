@@ -1,1 +1,2 @@
 # Notifier
+The "Notifier" represents a bespoke desktop application for notifications. It serves the purpose of alerting the user to engage in periodic intervals of respite, encouraging hydration and relaxation. An added advantageous feature is its provision of a novel English letter and its corresponding definition within the notification. This facet contributes to the augmentation of the user's lexicon.
