@@ -15,6 +15,7 @@ def drink():
 
 def word_msg():
     words = list(get_english_words_set(['web2'], lower=True))
+    # lower (default False ) is a flag specifying that all upper-case letters should be converted to lower-case
     word = random.choice(words)
     print(word)
     dic = PyDictionary()
